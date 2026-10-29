@@ -1,0 +1,16 @@
+# 生成的产物
+examples/out/
+examples/pwa/
+*/out/
+*/pwa/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
